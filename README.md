@@ -1,7 +1,10 @@
 # 📊 Super_store_analysis
 
 ## 📌 Project Overview
-The *Telecom Churn Analysis* project focuses on identifying the key factors influencing customer churn in a telecom company. Using *Power BI*, raw telecom customer data was transformed into interactive dashboards that highlight important business insights.
+An interactive sales dashboard built using Microsoft Power BI to analyze Global Superstore sales data.
+The dashboard provides a clear overview of key metrics such as total sales, quantity, and number of orders, with interactive visuals and drill-through functionality for deeper analysis.
+
+
 
 
 <hr/>
@@ -17,6 +20,15 @@ The *Telecom Churn Analysis* project focuses on identifying the key factors infl
 
 ## 🔎 Project Highlights
 
+📊 Interactive dashboard created in Microsoft Power BI
+
+🔍 Drill-through feature for detailed insights
+
+📈 Key KPIs: Total Sales, Total Quantity, Number of Orders
+
+🗂 Sales analysis by category and customer segment
+
+🌍 Geographic sales distribution by country
 
 <hr/>
 
