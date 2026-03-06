@@ -31,7 +31,8 @@ The *Telecom Churn Analysis* project focuses on identifying the key factors infl
 
 ## 📸 Dashboard samples 
 <img width="1251" height="735" alt="Screenshot 2025-08-09 202716" src="https://github.com/user-attachments/assets/b26de5dc-22bb-448b-99c0-45fba8ec88a2" />
-<img width="1251" height="741" alt="Screenshot 2025-08-09 202619" src="https://github.com/user-attachments/assets/2ddfa9e5-e0eb-42a8-b470-675d3fcb954e" />
+
+<img width="1253" height="734" alt="Screenshot 2025-08-09 202743" src="https://github.com/user-attachments/assets/ef67b72b-a1a8-44f6-baa5-2af3a6f3261d" />
 
 
 <hr/>
